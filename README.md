@@ -6,7 +6,16 @@
     * One to get ascending order of dict
     * Two to get descending order of dict.
 
-For eg. Given dict {1: 2, 3: 4, 4: 3, 2: 1, 0: 0}
+**Instructions:**
+* Program should be written in file build.py
+* Function names should be solution_asc and solution_desc for ascending and descending sorts respectively.
+* Input 
+      
+       Type:  Dictionary
+       Value: {1: 2, 3: 4, 4: 3, 2: 1, 0: 0}
+       
+* Expected Output
 
-In Ascending order it should be: [(0, 0), (1, 2), (2, 1), (3, 4), (4, 3)]
-In descending order it should be: [(4, 3), (3, 4), (2, 1), (1, 2), (0, 0)] 
+        Type:  List
+        Value: In Ascending order it should be: [(0, 0), (1, 2), (2, 1), (3, 4), (4, 3)]
+               In descending order it should be: [(4, 3), (3, 4), (2, 1), (1, 2), (0, 0)] 
